@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Diego 👋
 
-<!--
-**BRRZ0106/BRRZ0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cervecero, minero y desarrollador en aprendizaje.  
+Me gusta el hardware, hacer cerveza, la panaderia, la minería Bitcoin y crear apps móviles.
 
-Here are some ideas to get you started:
+## profesion
+-Soy ingeniero Bioquimico en alimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Analista de minado y manejo del bitcoin
+
+-Estudiante de ingenieria en software
+
+## hobbies
+-Desarrollar programas solo por auto aprendizaje.
+
+-Manejo de redes y circuitos cerrados para comprbar errores o velocidades en espacios controlados. 
+
+-Una vez invente la cura para la cruda pero se me olvido
+
+## Que se vaya mucho al diablo el ingles
+-Algun dia podre comprar el nombre de TomatoValley para realmente convertir culiacan en una ciudad de desarrollo tecnologico 

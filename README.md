@@ -13,7 +13,7 @@ Me gusta el hardware, hacer cerveza, la panaderia, la minería Bitcoin y crear a
 ## hobbies
 -Desarrollar programas solo por auto aprendizaje.
 
--Manejo de redes y circuitos cerrados para comprbar errores o velocidades en espacios controlados. 
+-Manejo de redes y circuitos cerrados para comprobar errores o velocidades en espacios controlados. 
 
 -Una vez invente la cura para la cruda pero se me olvido
 
